@@ -24,7 +24,7 @@ INSTALLATION
 ------------------------------------------------------------
 
 Place the folder here:
-  <game_root>/mods/AllMatchups_AllRegions/
+  <game_root>/mods/
 
 Enable the mod in-game:
   Main Menu -> Options -> Mods -> Enable
@@ -46,7 +46,7 @@ VERSION
 
 Designed for game version: 1.059
 minGameVersion: 1.050
-maxGameVersion: 1.070
+maxGameVersion: 1.080
 
 ============================================================
 END OF FILE
