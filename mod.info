@@ -1,0 +1,21 @@
+; All Matchups in All Regions
+; Enables all faction matchups (ger/rus/fin/usa/eng) across every region.
+
+{mod
+	; name of your mod
+	{name "All Matchups (All Regions)"}
+
+	; mod tags
+	;{tags "dynamic_campaign conquest matchups"}
+
+	; description of your mod
+	{desc "Expands AvailableMatchups in set/dynamic_campaign/values.set so every region allows all matchups between GER/RUS/FIN/USA/ENG (both directions)."}
+
+	; oldest game version your mod is still compatible with
+	{minGameVersion "1.050.0"}
+
+	; latest game version your mod has been tested on and is compatible with
+	{maxGameVersion "1.080.0"}
+
+	;{require "template_mod_dependency_name"}
+}
