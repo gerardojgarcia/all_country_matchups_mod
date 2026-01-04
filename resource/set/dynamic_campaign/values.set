@@ -71,6 +71,12 @@
 			"fin eng" "eng fin"
 
 			"usa eng" "eng usa"
+			
+			"usa usa" "usa usa"
+			"ussr ussr" "ussr ussr"
+			"ger ger" "ger ger"
+			"fin fin" "fin fin"
+			"eng eng" "eng eng"
 		}
 	}
 	{Talvisota
@@ -88,6 +94,12 @@
 			"fin eng" "eng fin"
 
 			"usa eng" "eng usa"
+			
+			"usa usa" "usa usa"
+			"ussr ussr" "ussr ussr"
+			"ger ger" "ger ger"
+			"fin fin" "fin fin"
+			"eng eng" "eng eng"
 		}
 	}
 	{West
@@ -105,6 +117,12 @@
 			"fin eng" "eng fin"
 
 			"usa eng" "eng usa"
+			
+			"usa usa" "usa usa"
+			"ussr ussr" "ussr ussr"
+			"ger ger" "ger ger"
+			"fin fin" "fin fin"
+			"eng eng" "eng eng"
 		}
 	}
 	{Finest_Hour
@@ -122,6 +140,12 @@
 			"fin eng" "eng fin"
 
 			"usa eng" "eng usa"
+			
+			"usa usa" "usa usa"
+			"ussr ussr" "ussr ussr"
+			"ger ger" "ger ger"
+			"fin fin" "fin fin"
+			"eng eng" "eng eng"
 		}
 	}
 	{West_FH
@@ -139,6 +163,12 @@
 			"fin eng" "eng fin"
 
 			"usa eng" "eng usa"
+			
+			"usa usa" "usa usa"
+			"rus rus" "rus rus"
+			"ger ger" "ger ger"
+			"fin fin" "fin fin"
+			"eng eng" "eng eng"
 		}
 	}
 }
